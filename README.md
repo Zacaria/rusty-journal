@@ -1,6 +1,8 @@
 # rusty-journal
 My first Rust todo cli
 
+Made by following the Microsoft tutorial [Build a command-line to-do list program](https://learn.microsoft.com/en-gb/training/modules/rust-create-command-line-program/)
+
 ## Dev
 
 Use [bacon](https://crates.io/crates/bacon) to run and check code
